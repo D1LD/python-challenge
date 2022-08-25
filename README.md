@@ -1,7 +1,7 @@
 # python-challenge
 Week2 Python-challenge
 
-![image](https://drive.google.com/file/d/1o_oiFUaQ0P3T_uDdTZIw73x_cr8ruTqQ/view?usp=sharing)
+Due to issue with Anaconda and Git,run homework on Colab
 
 
 from google.colab import drive
@@ -35,6 +35,7 @@ c =df['Profit/Losses'].mean()
 print("Average of the changes is " , c)
 
 Profit/Losses       Date
+
 0          867884  1/01/2010
 
 1          984655  1/02/2010
