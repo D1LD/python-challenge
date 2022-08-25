@@ -1,7 +1,7 @@
 # python-challenge
 Week2 Python-challenge
 
-![image]([https://drive.google.com/file/d/1o_oiFUaQ0P3T_uDdTZIw73x_cr8ruTqQ/view?usp=sharing])
+![image](https://drive.google.com/file/d/1o_oiFUaQ0P3T_uDdTZIw73x_cr8ruTqQ/view?usp=sharing)
 
 
 from google.colab import drive
