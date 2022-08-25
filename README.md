@@ -3,7 +3,7 @@
 Week2 Python-challenge
 
 
-Due to issue with Anaconda and Git,run homework on Colab
+#Due to issue with Anaconda and Git,run homework on Colab
 
 
 from google.colab import drive
@@ -13,7 +13,7 @@ import pandas as pd
 path = "/content/drive/MyDrive/Colab Notebooks/home22.csv"
 df = pd.read_csv("/content/drive/MyDrive/Colab Notebooks/home22.csv") 
 
-
+count rows for total months 
 df.head()
 rows = len(df.axes[0])
 print(df)
@@ -24,18 +24,27 @@ import pandas as pd
 
 
 
+#Calculate total Profit and Loss
+
 
 Total = df['Profit/Losses'].sum()
 print ("Total Profit is " , Total),
 a=df['Profit/Losses'].max()
 b=df['Profit/Losses'].min()
 
+#Find MAX and MIN
+
+
 print("Greatest increase is " , a)
 print("Greatest decrease is " , b),
+
+#Find Average
+
 
 c =df['Profit/Losses'].mean()
 print("Average of the changes is " , c)
 
+#Check List before Action
 Profit/Losses       Date
 
 0          867884  1/01/2010
@@ -58,6 +67,8 @@ Profit/Losses       Date
 
 85         671099  1/02/2017
 
+
+#Result
 
 
 [86 rows x 2 columns]
