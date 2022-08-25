@@ -36,20 +36,33 @@ print("Average of the changes is " , c)
 
 Profit/Losses       Date
 0          867884  1/01/2010
+
 1          984655  1/02/2010
+
 2          322013  1/03/2010
+
 3          -69417  1/04/2010
+
 4          310503  1/05/2010
 ..            ...        ...
 81         102685  1/10/2016
+
 82         795914  1/11/2016
+
 83          60988  1/12/2016
+
 84         138230  1/01/2017
+
 85         671099  1/02/2017
 
 [86 rows x 2 columns]
+
 ToTal Months:  86
+
 Total Profit is  38382578
+
 Greatest increase is  1170593
+
 Greatest decrease is  -1196225
+
 Average of the changes is  446309.0465116279
