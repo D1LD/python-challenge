@@ -1,7 +1,7 @@
-# python-challenge
-Week2 Python-challenge
+### python-challenge
+##Week2 Python-challenge
 
-Due to issue with Anaconda and Git,run homework on Colab
+#Due to issue with Anaconda and Git,run homework on Colab
 
 
 from google.colab import drive
@@ -56,11 +56,16 @@ Profit/Losses       Date
 
 85         671099  1/02/2017
 
+
+
 [86 rows x 2 columns]
+
 
 ToTal Months:  86
 
+
 Total Profit is  38382578
+
 
 Greatest increase is  1170593
 
