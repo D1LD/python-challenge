@@ -1,7 +1,10 @@
-### python-challenge
-##Week2 Python-challenge
+### 
+Python-challenge
+##
+Week2 Python-challenge
 
-#Due to issue with Anaconda and Git,run homework on Colab
+#
+Due to issue with Anaconda and Git,run homework on Colab
 
 
 from google.colab import drive
